@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Raushan Gupta
 
 💻 **Front-End / Full Stack Developer (in progress)**
+
 🚀 Passionate about building fast, responsive, and modern web applications.
+
 📚 Currently focusing on **Advanced React, JavaScript, and Data Structures**.
 
 ---
